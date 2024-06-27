@@ -14,6 +14,11 @@ This is an employees management system, that stores employees details in SQL sev
   
 ![Screenshot 2024-06-22 211337](https://github.com/Fshaun/Employees-Management-Web-App/assets/33252250/a5e1dd4c-7b1b-4daa-aacd-b21642d0bdd8)
 
+![Screenshot 2024-06-27 141516](https://github.com/Fshaun/Employees-Management-Web-App/assets/33252250/22f05163-cdf2-43b8-99dc-48875b18952b)
+
+<h2>📬 Contact</h2>
+
+
 If you want to contact me, you can reach me through below handles.
 
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/fhulufhelo-shaun-bulasigobo-0a7340149/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
